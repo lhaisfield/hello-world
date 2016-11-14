@@ -1,2 +1,5 @@
+
 # hello-world
-tutorial for git gub
+Tutorial for git hub.
+L2daH doing the tutorial for git hub.
+
